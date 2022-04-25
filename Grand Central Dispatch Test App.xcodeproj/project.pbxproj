@@ -11,6 +11,7 @@
 		3EC65B5B28171650002C9666 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EC65B5A28171650002C9666 /* ContentView.swift */; };
 		3EC65B5D28171652002C9666 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EC65B5C28171652002C9666 /* Assets.xcassets */; };
 		3EC65B6028171652002C9666 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EC65B5F28171652002C9666 /* Preview Assets.xcassets */; };
+		3EFC6EC0281741AB00F4FE7A /* MoviePosterViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EFC6EBF281741AA00F4FE7A /* MoviePosterViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3EC65B5A28171650002C9666 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3EC65B5C28171652002C9666 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EC65B5F28171652002C9666 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3EFC6EBF281741AA00F4FE7A /* MoviePosterViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoviePosterViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				3EC65B5828171650002C9666 /* Grand_Central_Dispatch_Test_AppApp.swift */,
+				3EFC6EBF281741AA00F4FE7A /* MoviePosterViewModel.swift */,
 				3EC65B5A28171650002C9666 /* ContentView.swift */,
 				3EC65B5C28171652002C9666 /* Assets.xcassets */,
 				3EC65B5E28171652002C9666 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3EC65B5B28171650002C9666 /* ContentView.swift in Sources */,
+				3EFC6EC0281741AB00F4FE7A /* MoviePosterViewModel.swift in Sources */,
 				3EC65B5928171650002C9666 /* Grand_Central_Dispatch_Test_AppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
