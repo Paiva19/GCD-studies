@@ -7,96 +7,240 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "D88D600C-C966-459D-B6D1-041D829C904F"
+            uuid = "1821E7B0-9C5C-4800-8E91-E385A637BD64"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Grand Central Dispatch Test App/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
-            landmarkName = "fixPoster()"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "changePosterUsingBackground()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "73608AD9-EE63-4F2D-AAEA-03E6CADB78DD"
+            uuid = "1929CD0C-A7CD-45C0-B3DB-27958FF96BE4"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Grand Central Dispatch Test App/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
-            landmarkName = "fixPoster()"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "useSerialQueue()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "312378FA-2887-4C71-8127-26685AE8F759"
+            uuid = "CFD53A40-D85B-40C7-8668-58ECDDAADE69"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Grand Central Dispatch Test App/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "39"
-            endingLineNumber = "39"
-            landmarkName = "fixPosterWithoutThread()"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "changePosterUsingMain()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "C9B84480-719A-4D57-9AD9-3CE1EBDBFE7B"
+            uuid = "2B30FA0E-A996-4FFE-BD63-4042048B5A05"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Grand Central Dispatch Test App/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "42"
-            endingLineNumber = "42"
-            landmarkName = "fixPosterUsingMain()"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "changePosterWithoutQueue()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "1F3F9558-6973-4E47-859C-44E98AC8EDA8"
+            uuid = "C59CE189-A325-4522-A894-06CC31DBBCEA"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Grand Central Dispatch Test App/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "47"
-            endingLineNumber = "47"
-            landmarkName = "fixPosterUsingBackground()"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "useConcurrentQueue()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "14E37445-9FF2-4249-A441-9F6CC73ED8D2"
+            uuid = "65C795B2-7EF6-40EC-B5AB-98A012DF7FC3"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Grand Central Dispatch Test App/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
-            landmarkName = "fixPoster()"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "useConcurrentQueueWithBarrier()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2411BBB3-C425-4AB4-96DF-8E2BE2CCE368"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grand Central Dispatch Test App/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "useConcurrentQueueWithSemaphore()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFB1193C-056D-4F04-B771-CF001131BC6C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grand Central Dispatch Test App/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "useDispatchGroup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBDF11EB-D5B1-43CC-B5B2-A810349B93AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grand Central Dispatch Test App/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "useDispatchGroupWithArray()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45CCBA8F-2C89-4FC5-BFA6-DD7873FAD46E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grand Central Dispatch Test App/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "changePoster(newPoster:delay:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C74FCF2B-5AD1-4ADC-A95B-AA302887AAA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grand Central Dispatch Test App/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "changePoster(newPoster:delay:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C74FCF2B-5AD1-4ADC-A95B-AA302887AAA6 - 82b89dda6db4bb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grand_Central_Dispatch_Test_App.ContentView.changePoster(newPoster: Grand_Central_Dispatch_Test_App.Poster, delay: Swift.UInt32) -&gt; ()"
+                  moduleName = "Grand Central Dispatch Test App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobile2you/Desktop/ios/SyncGCD/Grand%20Central%20Dispatch%20Test%20App/Grand%20Central%20Dispatch%20Test%20App/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "273">
+               </Location>
+               <Location
+                  uuid = "C74FCF2B-5AD1-4ADC-A95B-AA302887AAA6 - 82b89dda6db4bb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Grand_Central_Dispatch_Test_App.ContentView.changePoster(newPoster: Grand_Central_Dispatch_Test_App.Poster, delay: Swift.UInt32) -&gt; ()"
+                  moduleName = "Grand Central Dispatch Test App"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mobile2you/Desktop/ios/SyncGCD/Grand%20Central%20Dispatch%20Test%20App/Grand%20Central%20Dispatch%20Test%20App/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "366">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1924AFFA-AEBC-4D2B-BE1D-27B742CBAA94"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grand Central Dispatch Test App/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "useConcurrentQueue()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D915CAF-D9B1-44E3-86B6-6B4E6DF53BB2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Grand Central Dispatch Test App/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "useConcurrentQueue()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
